@@ -3,7 +3,7 @@
 
 ## Overview
 
-Visiting new cities during COVID-19 times can result in a impossible task, but nothing restricts you to virtually have a taste of Seattle by making use of data visualisation and statistics. This project makes use of the [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle) in order to have sneak peek into the Airbnb activity in Seattle.
+Visiting new cities during COVID-19 times can result in an impossible task, but nothing restricts you from virtually having a taste of Seattle by making use of data visualisation and statistics. This project employs the [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle) in order to have sneak peek into the Airbnb activity in Seattle.
 
 
 ## Contributing
