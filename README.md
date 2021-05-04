@@ -1,12 +1,12 @@
 # Seattle Senses: Talking a walk around the city, through data.
-**Seattle Senses** aims to understand the crowd-endengered particular styles of each district of Seattle, making use of Natural Language Processing and Text-Mining techniques applied on Airbnb listings data.
+Seattle Senses aims to understand the crowd-endengered particular styles of each district of Seattle, making use of Natural Language Processing and Text-Mining techniques applied on Airbnb listings data.
 
 ## Overview
 
-Visiting new cities during COVID-19 times can result in an impossible task, but nothing restricts you from virtually having a taste of Seattle by making use of data visualisation and statistics. This project employs the [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle) in order to have sneak peek into the Airbnb activity in Seattle.
+Visiting new cities during COVID-19 times can result in an impossible task, but nothing restricts you from virtually having a taste of Seattle by making use of data visualisation and statistics. This project employs the [Seattle Airbnb Open Data](https://www.kaggle.com/airbnb/seattle) in order to have a sneak peek into the Airbnb activity in Seattle.
 
 ## Undertaking
-In this project, different things have been uncovered such as the characteristic words for each neighbourhood of Seattle, to how different adjectivized descriptions influence the mean listing price of a district. All this done with appealing and digestible visualisations that help to understand how do these different phenomenons occur.
+Different things have been uncovered in this project, such as the characteristic words for each neighbourhood of Seattle and how different adjectivised descriptions influence a district's mean listing price.
 
 
 
